@@ -11,22 +11,22 @@ __Things we will learn or touch on__
 * Exporting models for web frameworks
 
 
-## What is a Jupyter Notebook?
+### What is a Jupyter Notebook?
 see [Jupyter](http://jupyter.org/)
 
 > The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, machine learning and much more.
 
 
-## Installing Dependencies
+### Installing Dependencies
 
 <To be added>
 
 
-## Useful Guides and links for learning Data Science
+### Useful Guides and links for learning Data Science
 
 <To be added>
 
 
-### What are you waiting for? 
+#### What are you waiting for? 
 
-### Clone this repository and play around with it!
+#### Clone this repository and play around with it :)
