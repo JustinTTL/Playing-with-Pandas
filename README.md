@@ -19,8 +19,8 @@ see [Jupyter](http://jupyter.org/)
 
 ### Installing Dependencies
 
-1. Install Python (Python Package Manager)
-2. Install Pip
+1. Install Python
+2. Install Pip, a Python Package Manager (https://pip.pypa.io/en/stable/installing/)
 3. Optional Steps:
   - Install Virtualenv
   - Install Virtualenvwrapper
