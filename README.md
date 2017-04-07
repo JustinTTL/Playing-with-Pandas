@@ -22,7 +22,7 @@ see [Jupyter](http://jupyter.org/)
 1. Install Python
 2. Install Pip, a Python Package Manager (https://pip.pypa.io/en/stable/installing/)
 3. Optional Steps:
-  - Install Virtualenv ```pip install virtualenv```
+  - Install Virtualenv using ```pip install virtualenv```
   - Install Virtualenvwrapper
   - Run ```mkvirtualenv pandas-intro```
 4. Run ```pip install -r requirements.txt```
