@@ -22,9 +22,9 @@ see [Jupyter](http://jupyter.org/)
 1. Install Python (Python Package Manager)
 2. Install Pip
 3. Optional Steps:
--1. Install Virtualenv
--2. Install Virtualenvwrapper
--3. Run ```mkvirtualenv pandas-intro```
+  1. Install Virtualenv
+  2. Install Virtualenvwrapper
+  3. Run ```mkvirtualenv pandas-intro```
 4. Run ```pip install -r requirements.txt```
 
 
