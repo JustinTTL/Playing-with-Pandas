@@ -19,11 +19,11 @@ see [Jupyter](http://jupyter.org/)
 
 ### Installing Dependencies
 
-#1. Install Python (Python Package Manager)
-#2. Install Pip
-#3. Install Virtualenv
-#4. Install Virtualenvwrapper
-#5. 
+1. Install Python (Python Package Manager)
+2. Install Pip
+3. Install Virtualenv
+4. Install Virtualenvwrapper
+5. 
 
 
 ### Useful Guides and links for learning Data Science
