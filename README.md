@@ -19,7 +19,13 @@ see [Jupyter](http://jupyter.org/)
 
 ### Installing Dependencies
 
-<To be added>
+1. Install Python
+2. Install Pip, a Python Package Manager (https://pip.pypa.io/en/stable/installing/)
+3. Optional Steps:
+  - Install Virtualenv using ```pip install virtualenv```
+  - Install Virtualenvwrapper (http://virtualenvwrapper.readthedocs.io)
+  - Run ```mkvirtualenv pandas-intro```
+4. Run ```pip install -r requirements.txt```
 
 
 ### Useful Guides and links for learning Data Science
