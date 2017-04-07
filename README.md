@@ -22,12 +22,10 @@ see [Jupyter](http://jupyter.org/)
 1. Install Python (Python Package Manager)
 2. Install Pip
 3. Optional Steps:
-⋅⋅1. Install Virtualenv
-⋅⋅2. Install Virtualenvwrapper
-⋅⋅3. Run ```mkvirtualenv pandas-intro```
-
-(END OPTIONAL)
-6. Run ```pip install -r requirements.txt```
+⋅⋅ Install Virtualenv
+⋅⋅ Install Virtualenvwrapper
+⋅⋅ Run ```mkvirtualenv pandas-intro```
+4. Run ```pip install -r requirements.txt```
 
 
 ### Useful Guides and links for learning Data Science
