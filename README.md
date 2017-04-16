@@ -28,7 +28,7 @@ see [Jupyter](http://jupyter.org/)
 4. Run ```pip install -r requirements.txt```
 
 
-<### Useful Guides and links for learning Data Science>
+<Useful Guides and links for learning Data Science>
 
 <To be added>
 
